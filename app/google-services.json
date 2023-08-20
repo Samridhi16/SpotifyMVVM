@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "296070906398",
+    "project_id": "spotifymvvm-db4c6",
+    "storage_bucket": "spotifymvvm-db4c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296070906398:android:ca2b4a5f7ac28829bba40f",
+        "android_client_info": {
+          "package_name": "com.sam.spotifymvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296070906398-nlfgoldh4lg5plg04lj3reb3q0dajdrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIIGZP0HlAuxOFdz-Vkt-dNPcDjqeR9UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296070906398-nlfgoldh4lg5plg04lj3reb3q0dajdrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
